@@ -34,6 +34,7 @@ int main()
     z = (z > k)? z : k;
 
      printf("S max =:%lf", z);
+     printf("S max =:%lf", z);
 
     return 0;
 }
