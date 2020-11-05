@@ -35,6 +35,7 @@ int main()
 
      printf("S max =:%lf", z);
      printf("S max =:%lf", z);
+     printf("S max =:%lf", z);
 
     return 0;
 }
